@@ -1,10 +1,10 @@
 // ── DATI SKILLS ──────────────────────────────────────────────
 const skills = [
-  { name: 'Brand Identity',   level: 5 },
-  { name: 'Art Direction',    level: 5 },
+  { name: 'Design & Creative',   level: 5 },
+  { name: 'Technical & Dev',    level: 5 },
   { name: 'Editorial Design', level: 4 },
-  { name: 'Motion Design',    level: 3 },
-  { name: 'UX / Interface',   level: 3 },
+  { name: 'Motion Design',    level: 4 },
+  { name: 'HTML5/CSS3',   level: 5 },
   { name: 'Illustrazione',    level: 4 },
 ];
 
